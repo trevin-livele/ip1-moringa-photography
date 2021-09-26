@@ -27,3 +27,14 @@ h2 {
     border: 5px;
     align-self: center;
   }
+  h3 {
+    display: inline;
+    width:150px;
+    border: 5px;
+    color: rosybrown;
+  }
+  h1 {
+    color: salmon;
+    display: inline;
+    font: italic bold 2em 'Open Sans', serif;
+    }
