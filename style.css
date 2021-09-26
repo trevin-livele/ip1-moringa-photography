@@ -11,3 +11,10 @@
     background-color: rgb(240,250,240);
     display: block;
   }
+  .article{
+    line-height: 1.4em;
+    font-family: Trebuchet MS;
+    color: black;
+    padding: 10px;
+    background-color: rgb(250,250,250)
+  }
