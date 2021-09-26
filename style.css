@@ -2,3 +2,12 @@
     margin: 0 auto; padding: 10px;
     align-self: center;
    }
+   body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0 auto; padding:8px;
+    text-align: center;
+    background-color: rgb(240,250,240);
+    display: block;
+  }
