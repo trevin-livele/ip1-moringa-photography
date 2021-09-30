@@ -1,6 +1,7 @@
 *{
     margin: 0 auto; padding: 10px;
     align-self: center;
+    
    }
    body {
     display: flex;
@@ -8,8 +9,13 @@
     align-items: center;
     margin:0 auto; padding:8px;
     text-align: center;
-    background-color: rgb(240,250,240);
+    background-color: whitesmoke;
     display: block;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/19/17/36/photographer-1149781_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 1400px;
+    background-attachment: fixed;
+    background-position: center center;
   }
   .article{
     line-height: 1.4em;
